@@ -111,7 +111,3 @@ mse ba 1 -0.3 0.1 "D: 4-year degree" g4
 ****** Figure 1 ******
 graph combine g1.gph g2.gph g3.gph g4.gph, scheme(s2mono)
 graph export Fig1.pdf, replace
-
-
-
-

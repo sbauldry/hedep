@@ -74,7 +74,3 @@ wste w4depr2 ba 1 -0.4 0.2 "D: 10-item, 4-year degree" ag4
 ****** Figure 1 ******
 graph combine ag1.gph ag2.gph ag3.gph ag4.gph, scheme(s2mono)
 graph export aFig1.pdf, replace
-
-
-
-

@@ -186,7 +186,3 @@ lab var ilninc "imputed parent income (logged)"
 
 *** Saving data for analysis
 save "hedep data 1", replace
-
-
-
-

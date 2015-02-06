@@ -41,17 +41,3 @@ foreach x of varlist h4mh19 h4mh22 h4mh24 h4mh26 w4depr w4age female r1-r4 ///
       " " as res %5.3f `p2' " " as res %5.3f `b30' " " as res %5.3f `b31' ///
       " " as res %5.3f `p3'
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
